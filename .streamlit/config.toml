@@ -1,0 +1,22 @@
+[theme]
+base = "dark"
+# RULES.md section 3 tokens.
+primaryColor = "#F2F2F2"            # chalk: widget accents
+backgroundColor = "#0A0A0A"        # ink
+secondaryBackgroundColor = "#1C1C1C" # charcoal: cards and panels
+textColor = "#F2F2F2"              # chalk
+borderColor = "#8A8A8A"            # concrete: borders
+dataframeBorderColor = "#8A8A8A"
+redColor = "#FF3B30"               # alert: errors only
+font = "monospace"
+headingFont = "monospace"
+codeFont = "monospace"
+codeBackgroundColor = "#1C1C1C"
+showWidgetBorder = true
+baseRadius = "none"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

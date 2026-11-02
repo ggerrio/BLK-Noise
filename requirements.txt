@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+streamlit
+pandas
+numpy
+sentence-transformers
+requests
+google-genai
+pytest
+ruff
+black
+mypy
